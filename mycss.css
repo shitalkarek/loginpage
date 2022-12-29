@@ -1,0 +1,51 @@
+body{
+    
+    background-color:whitesmoke;
+    
+}
+
+
+button{
+    background-color:azure;
+    width: 50%;
+    
+    color: blue;
+    padding: 15px;
+    margin-top: 10px opx;
+    border-radius: 20px;
+    border-color:bisque;
+    cursor: pointer;
+    border: 2px solid white;
+    
+}
+
+form{
+    border: 3px solid brown;
+    background-color:bisque;
+}
+
+input[type=text], input[type=password]{
+    width:50%;
+    margin: 8px 0;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 3px solid red;
+    border-radius: 10px;
+    box-sizing: border-box;
+    
+}
+
+button.hover{
+    opacity: 0.7;
+}
+
+.container{
+    padding: 25px;
+    background-color:bisque;
+}
+img{
+    width: 300px;
+    border-radius: 500px;
+    border: 2px solid white;
+}
+
